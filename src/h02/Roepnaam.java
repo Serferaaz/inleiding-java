@@ -8,6 +8,7 @@ public class Roepnaam extends Applet {
 
     //een (lege) methode die de Applet initialiseert
     public void init() {
+        setBackground(Color.white);
 
     }
     //een methode die de inhoud van het scherm tekent
