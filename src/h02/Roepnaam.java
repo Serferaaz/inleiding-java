@@ -24,7 +24,7 @@ Wat is machinetaal?
 Machinetaal is een taal waarin instructies geschreven zijn die de processor van een computer direct kan uitvoeren
 
 Welke drie hulpmiddelen heb je nodig om te programmeren?
-Een programmeertaal, een applet en een code editor
+Een tekstverwerker, een compiler en een linker
 
 Hoe herken je opdrachten in de broncode?
 Alle opdrachten zitten tussen de accolades
