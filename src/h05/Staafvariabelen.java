@@ -33,7 +33,7 @@ public class Staafvariabelen extends Applet{
         //Staaf Valerie
         g.drawString("Valerie", 65,420 );
         g.setColor(Color.pink);
-        g.fillRect(61, lijn - gewichtValerie, breedte, 80);
+        g.fillRect(61, lijn - gewichtValerie, breedte, gewichtValerie);
 
         //Staaf Jeroen
         g.setColor(Color.black);
@@ -45,7 +45,7 @@ public class Staafvariabelen extends Applet{
         g.setColor(Color.black);
         g.drawString("Hans", 170, 420);
         g.setColor(Color.yellow);
-        g.fillRect(160, lijn - gewichtHans, breedte, 160);
+        g.fillRect(160, lijn - gewichtHans, breedte, gewichtHans);
 
         //Gewichten in kg
         g.setColor(Color.black);
