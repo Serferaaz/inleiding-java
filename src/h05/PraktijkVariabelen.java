@@ -12,7 +12,7 @@ public class PraktijkVariabelen extends Applet{
     int hoogte;
 
     public void init() {
-        //initialisatie
+        //initialisaties
         opvulkleur = Color.magenta;
         lijnkleur = Color.black;
         breedte = 200;

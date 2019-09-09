@@ -25,7 +25,7 @@ public class Staafvariabelen extends Applet{
 
         //linkerlijn
         g.drawLine(60, 200, 60, hoogte);
-        //onderlijn
+        //Onderlijn
         g.drawLine(60, 400, 200, hoogte);
         //kg tekst
         g.drawString("Cijfers in KG", 0, 70);
