@@ -38,7 +38,7 @@ public class Staafdiagram extends Applet{
         g.drawString("40 kg-", 25, 324);
         g.drawString("60 kg-", 25, 284);
         g.drawString("80 kg-", 25, 244);
-        g.drawString("100 kg", 25, 204);
+        g.drawString("100 kg-", 18, 204);
 
     }
 }
