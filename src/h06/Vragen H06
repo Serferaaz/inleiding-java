@@ -1,0 +1,15 @@
+1. Waarom is initialiseren van variabelen noodzakelijk?
+Anders weet je niet welke waarde in een variabele staat
+
+2. Waarom is er typecasting noodzakelijk bij de conversie van een double naar een int?
+Zo geeft de programmeur de compiler aan dat hij er van bewust is dat er informatie verloren kan gaan maar dat hij dat accepteerd
+
+3. Wat is de uitvoer van dit programma? Geef een verklaring.
+De uitvoer van dit programma is: "De uitkomst is: 5.0"
+Dit komt doordat de Int gehele getallen heeft en de Double, de uitkomst in decimalen zet. Int kan je converteren naar Double
+zonder informatieverlies, maar andersom niet.
+
+4. In de regel uitkomst = (a + b) / c; laat je de ronde haken weg. Wat is de uitvoer van dit programma? Geef een verklaring.
+De uitvoer van dit programma is: "De uitkomst is: 10.0"
+Dat komt omdat de haakjes ervoor zorgen dat A en B eerst bij elkaar opgeteld worden en daarna pas door c word gedeeld.
+Als je de haakjes weghaalt, dan gaat het eerst B delen door C en vervolgens met A optellen.
