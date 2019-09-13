@@ -1,0 +1,20 @@
+Wat is event-handling?
+Als een besturingssysteem een oproep doet naar de methode die bij een kop hoort.
+
+Wat is een gebruikersinterface?
+Dat is het intermediair tussen de gebruiker en de computer.
+
+Waarom moet er voor een knop wel en voor een tekst geen event-handling geprogrammeerd worden?
+Omdat een tekst intypen een standaardinstelling is dus Windows handelt het intern vanzelf af.
+
+Wat is een lege string?
+Een lege string is een string dat geen waarde bevat maar je kan het gebruiken om een andere waarde in de plaats te zetten
+om zo toch een werkend systeem te hebben.
+
+Wat is het verschil tussen een tekstvak en een label?
+Een tekstvak is een vak waar de ingetikte woorden en cijfers in komen te staan.
+Een tekstvak waarin niets ingetikt kan worden, maar waar het programma wel tekst in kan zetten noem je een label.
+
+Waarom moeten getallen uit een tekstvak altijd geconverteerd worden naar een double of een int?
+Alles wat in het tekstvak word getypt is in de vorm van een string, dat moet geconverteerd worden naar een double of int.
+Die waarde ervan wordt in een variabele getal gezet.

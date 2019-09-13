@@ -22,7 +22,7 @@ public class PraktijkopdrachtH06 extends Applet{
     }
 
     public void paint(Graphics g) {
-        g.drawString("Gemiddelde cijfer is: " + uitkomst , 50, 50);
+        g.drawString("Gemiddelde cijfer is: " + uitkomst, 50, 50);
 
     }
 }
