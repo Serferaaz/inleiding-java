@@ -45,8 +45,8 @@ public class School extends Applet{
     public void paint(Graphics g) {
         g.drawString("Aantal mannen:    " + mannen, 80, 100);
         g.drawString("Aantal vrouwen:   " + vrouwen, 80, 120);
-        g.drawString("Aantal jongens    "+ pmannen, 80, 140);
-        g.drawString("Aantal meisjes    " + pvrouwen, 80, 160);
+        g.drawString("Aantal jongens:    "+ pmannen, 80, 140);
+        g.drawString("Aantal meisjes:    " + pvrouwen, 80, 160);
         g.drawString("Het totaal aantal is: " + (mannen + vrouwen + pmannen + pvrouwen), 80, 200);
     }
 
