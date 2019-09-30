@@ -1,0 +1,13 @@
+switch (cijfer) {
+                case 1:
+                case 2:
+                case 3:
+                    rate = "slecht";
+                    break;
+                case 4:
+                    rate = "Onvoldoende";
+                    break;
+
+
+
+ met CIJFER tussen de () hierboven, geef je de nummers 1 tot ... aan.

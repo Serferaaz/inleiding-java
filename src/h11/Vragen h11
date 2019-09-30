@@ -1,0 +1,15 @@
+Wat is het verschil tussen een while- en een for-lus?
+Bij de for-lus zet je alle opdrachten in 1 lijn en bij de while- lus zet je alle opdrachten apart.
+
+Wat is het nesten van lussen?
+Dat is wanneer je een lus in een lus zet.
+
+Bekijk de volgende broncode:
+
+int eind = 5;
+for(int i = 10;  i < eind;  i++) {
+     ....
+     ....
+}
+Wordt de lus uitgevoerd? Geef een verklaring voor je antwoord
+De lus word niet uitgevoerd want i < eind, klopt niet.
