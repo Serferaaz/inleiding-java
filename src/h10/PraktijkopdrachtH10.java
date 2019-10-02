@@ -27,6 +27,7 @@ public class PraktijkopdrachtH10  extends  Applet{
         rate = "";
     }
     public void paint(Graphics g) {
+
         g.drawString("Je cijfer is " + rate, 50, 50);
     }
     class OkknopListener implements ActionListener {
@@ -43,7 +44,7 @@ public class PraktijkopdrachtH10  extends  Applet{
                 rate = "voldoende";
             } else if (cijfer == 7) {
                 rate = "voldoende";
-            } else if (cijfer > 7) {
+            } else if (cijfer <= 10) {
                 rate = "goed";
             } else if (cijfer > 10){
                 rate = "Er is een verkeerd cijfer ingetypt";
