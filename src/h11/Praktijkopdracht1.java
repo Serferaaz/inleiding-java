@@ -10,7 +10,6 @@ public class Praktijkopdracht1 extends Applet{
     Button okknop;
     String s;
     int cijfer;
-    int uitkomst;
 
     public void init() {
         tekstvak = new TextField("", 20);
