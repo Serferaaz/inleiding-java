@@ -90,7 +90,7 @@ public class Rekenmachine extends Applet{
             repaint();
         }
     }
-
+//nothing//
     class KeerknopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
             invoer1 = tekstvak1.getText();
@@ -103,5 +103,4 @@ public class Rekenmachine extends Applet{
             repaint();
         }
     }
-
 }
